@@ -12,10 +12,9 @@ I'm a passionate cybersecurity enthusiast and a recent graduate in Computer Engi
 
 ---
 
-[![LowRance's tryhackme stats](https://raw.githubusercontent.com/ahmedelgendy3/ahmedelgendy3/master/assets/thm_propic.png)][tryhackme]
+[![LowRance's tryhackme stats](https://raw.githubusercontent.com/ahmedelgendy3/ahmedelgendy3/master/assets/thm_propic.png)](https://tryhackme.com/p/LowRance)
 
 ## Get in Touch
 
 - LinkedIn: [Ahmed Elgendy](https://www.linkedin.com/in/aelgendy1)
 - Email: ahmedelgindy110@gmail.com
-[tryhackme]: https://tryhackme.com/p/LowRance
