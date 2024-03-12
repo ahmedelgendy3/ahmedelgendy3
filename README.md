@@ -10,9 +10,12 @@ I'm a passionate cybersecurity enthusiast and a recent graduate in Computer Engi
 - 📚 In addition to cybersecurity, I have a solid foundation in Python programming, SQL, and bash scripting.
 - 🎮 When I'm not immersed in cybersecurity, you can find me gaming, playing table tennis, or enjoying good music.
 
-[![LowRance's tryhackme stats](https://raw.githubusercontent.com/ahmedelgendy3/ahmedelgendy3/master/assets/thm_propic.png)](https://tryhackme.com/p/LowRance)
+---
+
+[![LowRance's tryhackme stats](https://raw.githubusercontent.com/ahmedelgendy3/ahmedelgendy3/master/assets/thm_propic.png)][tryhackme]
 
 ## Get in Touch
 
 - LinkedIn: [Ahmed Elgendy](https://www.linkedin.com/in/aelgendy1)
 - Email: ahmedelgindy110@gmail.com
+[tryhackme]: https://tryhackme.com/p/LowRance
