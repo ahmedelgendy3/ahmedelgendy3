@@ -9,7 +9,7 @@ I'm a passionate cybersecurity enthusiast and a recent graduate in Computer Engi
 - 💼 I'm seeking opportunities to apply my knowledge and contribute to real-world cybersecurity projects.
 - 📚 In addition to cybersecurity, I have a solid foundation in Python programming, SQL, and bash scripting.
 - 🎮 When I'm not immersed in cybersecurity, you can find me gaming, playing table tennis, or enjoying good music.
-![tryhackme stats](https://raw.githubusercontent.com/ahmedelgendy3/ahmedelgendy3/master/assets/thm_propic.png)
+[![LowRance's tryhackme stats](https://raw.githubusercontent.com/ahmedelgendy3/ahmedelgendy3/master/assets/thm_propic.png)][tryhackme]
 
 ## Get in Touch
 
