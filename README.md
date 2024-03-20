@@ -12,7 +12,7 @@ I'm a passionate cybersecurity enthusiast and a recent graduate in Computer Engi
 
 ---
 
-[![LowRance's tryhackme stats](https://raw.githubusercontent.com/ahmedelgendy3/ahmedelgendy3/master/assets/thm_propic.png)](https://tryhackme.com/p/LowRance)
+[![LowRance's tryhackme stats](https://tryhackme-badges.s3.amazonaws.com/LowRance.png)](https://tryhackme.com/p/LowRance)
 
 ## Get in Touch
 
